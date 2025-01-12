@@ -2,7 +2,11 @@ import React from 'react'
 
 const New = () => {
   return (
-    <div>New</div>
+    <div>New
+        <p>
+            this is not h
+        </p>
+    </div>
   )
 }
 
