@@ -13,6 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className='relative'>
         <NavBar />
         {children}
+        <h1>hi</h1>
         <Footer />
       </body>
     </html>
